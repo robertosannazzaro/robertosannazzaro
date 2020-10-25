@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/TensorFlow-%FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=#ffffff)
-![](https://img.shields.io/badge/Pandas-%23276DC3.svg?style=for-the-badge&logo=pandas&logoColor=#150458)
+![](https://img.shields.io/badge/Pandas-%130753.svg?style=for-the-badge&logo=pandas&logoColor=#150458)
 ![](https://img.shields.io/badge/FastAPI-%23276DC3.svg?style=for-the-badge&logo=fastapi&logoColor=#009688)
 ![](https://img.shields.io/badge/Jupyter-%23276DC3.svg?style=for-the-badge&logo=jupyter&logoColor=#F37626)
 ![](https://img.shields.io/badge/Git-%23276DC3.svg?style=for-the-badge&logo=git&logoColor=#F37626)
