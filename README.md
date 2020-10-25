@@ -1,4 +1,4 @@
-[<img src='header.jpg' height='150px'/>](https://www.linkedin.com/in/robertosannazzaro/)
+[<img src='header.jpg' width='100%'/>](https://www.linkedin.com/in/robertosannazzaro/)
 
 ### Hi there 👋
 
