@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-![](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/TensorFlow-%23276DC3.svg?style=for-the-badge&logo=tensorflow&logoColor=#FF6F00)
 ![](https://img.shields.io/badge/Pandas-%23276DC3.svg?style=for-the-badge&logo=pandas&logoColor=#150458)
 ![](https://img.shields.io/badge/FastAPI-%23276DC3.svg?style=for-the-badge&logo=fastapi&logoColor=#009688)
-![](https://img.shields.io/badge/Jupyter-%23276DC3.svg?style=for-the-badge&logo=fastapi&logoColor=#F37626)
+![](https://img.shields.io/badge/Jupyter-%23276DC3.svg?style=for-the-badge&logo=jupyter&logoColor=#F37626)
 ![](https://img.shields.io/badge/Git-%23276DC3.svg?style=for-the-badge&logo=git&logoColor=#F37626)
 
 
