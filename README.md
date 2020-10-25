@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/FastAPI-%23276DC3.svg?style=for-the-badge&logo=fastapi&logoColor=#009688)
 ![](https://img.shields.io/badge/Jupyter-%23276DC3.svg?style=for-the-badge&logo=jupyter&logoColor=#F37626)
 ![](https://img.shields.io/badge/Git-%23276DC3.svg?style=for-the-badge&logo=git&logoColor=#F37626)
+![](https://img.shields.io/badge/Docker-%23276DC3.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 
