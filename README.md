@@ -1,3 +1,5 @@
+[![Header](./header.jpg "Header")](https://www.linkedin.com/in/robertosannazzaro/)
+
 ### Hi there 👋
 
 <!--
@@ -14,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](./header.jpg "Header")](https://www.linkedin.com/in/robertosannazzaro/)
 
 [![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertosannazzaro&hide=prs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
