@@ -1,6 +1,7 @@
 ### Hi there 👋
 ---
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 
 
 <!--
