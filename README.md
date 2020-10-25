@@ -1,5 +1,7 @@
 ### Hi there 👋
 ---
+
+![www.google.com](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/Python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
