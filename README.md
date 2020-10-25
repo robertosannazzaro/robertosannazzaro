@@ -1,7 +1,14 @@
 ### Hi there 👋
 ---
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23#FF6F00.svg?&style=for-the-badge&logo=tensorflow.svg}&logoColor=white)
+
 
 
 <!--
