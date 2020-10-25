@@ -3,8 +3,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#ffffff)](https://medium.com/@robsanna)
 [![](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=#ffffff)](https://medium.com/@robsanna)
 
----
-
 ## 🧰 Skills & stack
 
 ![](https://img.shields.io/badge/Python%20-1E415D.svg?&style=for-the-badge&logo=python&logoColor=FFE696)
@@ -35,11 +33,11 @@ More precisely, I am focusing on predictive analysis, statistical modeling in th
 
 - 🤔 I’m looking for help with architecture design between a React client and the AWS stack, best practices on how to design NoSQL databases, use GraphQL APIs, and trigger different jobs with Lambda functions.
 
-- 💬 Ask me about NLP, time-series forecast, churn modelling, Shopify APIs,
+- 💬 Ask me about NLP, time-series forecast, churn modelling, Shopify APIs, Python, AWS.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/robertosannazzaro/).
 
-- ⚡ Fun fact: I have more than 150K of unique views on Medium
+- ⚡ Fun fact: I have more than 150K of unique views on Medium.
 
 ## 📊 GitHub Stats
 
