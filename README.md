@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Tensorflow-%23#FF6F00.svg?&style=for-the-badge&logo=tensorflow.svg&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-%23#FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
