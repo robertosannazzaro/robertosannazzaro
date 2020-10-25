@@ -1,4 +1,5 @@
 ### Hi there 👋
+---
 
 <!--
 **robertosannazzaro/robertosannazzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### :bar_chart: GitHub stats
+---
 [![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertosannazzaro&hide=prs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Bloggin and writing
