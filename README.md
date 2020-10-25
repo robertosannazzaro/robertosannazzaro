@@ -1,4 +1,4 @@
-[![Header](./header.jpg "Header")](https://www.linkedin.com/in/robertosannazzaro/)
+[<img src='header.jpg' height='150px'/>](https://www.linkedin.com/in/robertosannazzaro/)
 
 ### Hi there 👋
 
